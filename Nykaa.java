@@ -26,16 +26,6 @@ public class Nykaa {
 	  System.out.println(title);
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	}
 
 }
